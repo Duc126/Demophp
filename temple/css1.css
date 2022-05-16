@@ -1,0 +1,357 @@
+body {
+    font-family: 'Open Sans',sans-serif ;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    -moz-osx-font-smoothing: grayscale;
+    font-feature-settings: 'liga';
+    -webkit-text-size-adjust: 100%;
+}
+.text-orange{
+    color:#f7941d;
+}
+.secondary{
+    font-family: 'Montserrat', sans-serif;
+}
+.secondary1{
+    font-family:  'Open Sans',sans-serif ;
+}
+h4{
+    font-size: 24px;
+    line-height: 38px;
+}
+.text-now{
+    font-size: 60px;
+    line-height: 86px;
+    font-family:  'Open Sans',sans-serif ;
+}
+.text-form{
+    font-size: 24px;
+    font-family:  'Open Sans',sans-serif ;
+}
+.pb-20{
+    padding-bottom: 20px;
+}
+p{
+    margin: 0 0 10px;
+}
+/* .pl-30{
+    padding-left: 30px;
+} */
+.py-6{
+    padding-top: 65px;
+    padding-bottom: 65px;
+    padding-left: 120px;
+}
+.inner-section *{
+  max-width: 100%;
+}
+.black-gray-dark {
+    color: #444;
+}
+.black-gray-light {
+    color: #888;
+}
+ .btn.bg-green{
+    background: #237f52; 
+}
+a.bg-orange:hover {
+    background:  #da923a;
+ }
+.small-text{
+    font-size: 14px;
+}
+.btn.wide{
+    padding-left: 34px;
+    padding-right: 34px;
+    border-radius: 20px;
+}
+.nav-link{
+    color: #999;
+    font-weight: bold;
+}
+.dropdown-item{
+    color: #999;
+    font-weight: bold;
+}
+.btn.bg-orange {
+   background:  #f7941d;
+}
+.dropdown-menu{
+    color: #999;
+    font-weight: bold;
+}
+
+a .bg-green :hover{
+    background-color: #237f52;
+}
+.mx-6{
+    margin-left: 170px;
+}
+.text-color{
+color: #888;
+font-size: 16px;
+line-height: 26px;
+font-family: 'Open Sans',sans-serif;
+}
+.mw{
+    max-width: 700%;
+}
+.pt7{
+    padding-top: 80px;
+}
+.py-8{
+    padding-top: 75px;
+    padding-bottom: 75px;
+}
+.text{
+    font-size: 16px;
+    line-height: 26px;
+    font-family: 'Open Sans',sans-serif ;
+}
+.item-1 i{
+    font-size: 26px;
+    line-height: 26px;
+    margin: 0 5px;
+   color: #bbb;
+}
+.icon-bar{
+    padding-top: 14px;
+    padding-bottom: 14px;
+    line-height: 20px;
+    display: inline-block;
+    font-family: 'Open Sans',sans-serif ;
+  
+}
+.p-85{
+    padding-top: 85px;
+    padding-bottom: 85px;
+}
+.m-10{
+    margin: 10px 10px 0 0 ;
+}
+.deal-1{
+    background-image: url(https://pixfort.com/items/1/images/deal/intro-pattern.png);
+    background-color: #f7941d;
+    background-size: auto;
+    background-attachment: scroll;
+    background-position: center;
+    overflow: hidden;
+}
+.mw-700 {
+    max-width: 700px;
+}
+.btn-lg.wide-2 {
+    padding-left: 70px;
+    padding-right: 70px;
+}
+.btn.btn-lg{
+    border-radius: 40px;
+    padding: 18px 65px;
+    font-size: 16px;
+}
+.py-100{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.p-65{
+padding-top: 65px;
+padding-bottom: 65px;
+}
+.bg-gray{
+    background: #f4f4f4;
+}
+.px-5-2{
+    padding-left: 50px;
+    padding-right: 20px;
+}
+.py-50{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+}
+.py-55{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 75px;
+}
+.pt-20{
+    padding-top: 20px;
+}
+.black-gray-dark{
+    color: #444;
+}
+.black-gray-light{
+    color: #888;
+}
+.mb-20{
+    margin-bottom: 20px;
+}
+.py-30{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.icon area{
+    min-width: 90px;
+}
+.pr-20{
+    padding-right: 20px;
+}
+.pt-10{
+    padding-top: 10px;
+}
+.icon-text{
+    display: table-cell;
+    vertical-align: top;
+    width: 10000px;
+}
+.text-edit{
+    font-size: 16px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+.small-text1{
+    font-size: 20px;
+    font-family: 'Open Sans',sans-serif ;
+
+}
+.font-size{
+        font-size: 36px;
+        line-height: 58px;
+}
+.big-text{
+    font-size: 16px;
+    line-height: 26px;
+}
+.mb-30{
+    margin-bottom: 30px;
+}
+.pt-40{
+    padding-top: 40px;
+}
+.img{
+    width: 72px;
+    height: 72px;
+}
+.px-20{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.my-20{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+h2{
+    font-size: 36px;
+    line-height: 58px;
+}
+.strong{
+    font-size: 36px;
+    line-height: 58px;
+}
+.w-90{
+    width: 90%;
+}
+.organe{
+    color:#ffdfb8;
+    font-size: 16px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.py-10{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.text-edit1{
+    font-size: 20px;
+    font-family:  'Montserrat', sans-serif;
+}
+.text-edit2{
+    font-size: 36px;
+    line-height: 58px;
+}
+.py-75{
+    padding-top: 75px;
+    padding-bottom: 75px;
+}
+.pt-60{
+    padding-top: 60px;
+}
+.py-20{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.icon-area-100{
+    max-width: 100px;
+    height: auto;
+}
+.organe-color {
+    color: #f7941d;
+}
+
+.navbar-default{
+    background: transparent;
+    border: 0px;
+}
+.pl-50{
+    padding-left: 50px;
+}
+.deal-2{
+    background-image: url(https://pixfort.com/items/1/images/deal/newsletter-pattern.png);
+    background-color: #f4f4f4;
+    background-size: auto;
+    background-attachment: scroll;
+    background-position: top;
+    background-repeat: repeat-x;
+    height:400px;
+    width: 380px;
+    box-sizing: border-box;
+}
+.radius-3{
+    border-radius: 3px;
+    overflow: hidden;
+}
+.m-30{
+    margin: 30px 0;
+}
+.px-30{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.py-20{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.form-group input{
+    margin-top: 4px;
+}
+.validation input{
+    border: 1px solid red;
+    background-color: #ff00000f;
+}
+
+.validation .message{
+    display: block;
+    margin-top: 4px;
+    color: red;
+    font-size: 12px;
+}
+
+.message{
+    display: none;
+}
+.pt-30{
+    padding-top: 30px;
+}
+.pb-15{
+    padding-bottom: 15px;
+
+}
+.radius-30{
+    border-radius: 30px;
+}
+.text-48{
+    font-size: 48px;
+}
+.btn.btn-xl{
+    padding: 15px 40px;
+    border-radius: 40px;
+}
